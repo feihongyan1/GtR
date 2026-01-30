@@ -1,2 +1,3 @@
 # GtR
-Generation then Reconstruction: Accelerating Masked Autoregressive Models via Two-Stage Sampling
+（ICLR2026）Generation then Reconstruction: Accelerating Masked Autoregressive Models via Two-Stage Sampling.
+the code is coming soon.
